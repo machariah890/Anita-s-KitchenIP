@@ -1,9 +1,10 @@
 # Anitas-kitchen
-this is anita's kitchen website
+
+This is Anita's Kitchen website
 
 Anita's Kitchen
 
-Author: murungi Kirima
+Author: Alvin Macahriah
 
 Project Name: Anita's Kitchen
 
@@ -13,6 +14,6 @@ This project is a landing page for Anita's business. It has been developed using
 
 Link to deployed page is at the top of the page or you can click here (https://github.com/murungiKirima/Anitas-kitchen.git) Kitchen
 
-© murungiKirima | Credits MORINGA SCHOOL
+© machariah890 | Credits MORINGA SCHOOL
 
 MIT lisence
